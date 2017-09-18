@@ -1,2 +1,2 @@
 # hello-express
-Sample hello-express application with deployment.yam and service.yam for running on Kubernetes
+Sample hello-express application with deployment.yaml and service.yaml files for running on Kubernetes
